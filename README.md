@@ -1,6 +1,6 @@
 # text-sentiment-analysis
 
-## Use cases
+## Use Cases
 This project uses machine learning models for natural language processing and classifying texts according to their implied biases (ranging from ```-1``` for very negative, to ```1``` for very positive; ```0``` is neutral). The model analyzes linguistic properties such as loaded language, word choice, etc. to determine how positive, negative, or neutral a text (such as a web article or an Amazon review) is.
 
 ## Project Directory
